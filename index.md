@@ -2,10 +2,10 @@
 ## Welcome to my page!
 
 ### Section Links
-- [Intro](https://github.com/OrigamiMM/PagesProject/blob/add-index/index.md#intro)
-- [Software Side](https://github.com/OrigamiMM/PagesProject/blob/add-index/index.md#software-side)
-- [Quick Facts](https://github.com/OrigamiMM/PagesProject/blob/add-index/index.md#quick-facts)
-- [Some Tasks I Want To Do](https://github.com/OrigamiMM/PagesProject/blob/add-index/index.md#some-tasks-i-want-to-do)
+- [Intro](https://origamimm.github.io/PagesProject/#intro)
+- [Software Side](https://origamimm.github.io/PagesProject/#software-side)
+- [Quick Facts](https://origamimm.github.io/PagesProject/#quick-facts)
+- [Some Tasks I Want To Do](https://origamimm.github.io/PagesProject/#some-tasks-i-want-to-do)
 
 ![UCSD PICTURE](Resized_Geisel_Library_08.31.jpg)
 > Amanda Rubalcava.2020 https://ucsdnews.ucsd.edu/pressrelease/uc-san-diego-ranked-no-1-public-university-by-washington-monthly. Accessed 3 April 2021
