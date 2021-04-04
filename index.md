@@ -1,11 +1,17 @@
 # Hi, I'm Oscar
 ## Welcome to my page!
 
+### Section Links
+- [Intro](https://github.com/OrigamiMM/PagesProject/blob/add-index/index.md#intro)
+- [Software Side](https://github.com/OrigamiMM/PagesProject/blob/add-index/index.md#software-side)
+- [Quick Facts](https://github.com/OrigamiMM/PagesProject/blob/add-index/index.md#quick-facts)
+- [Some Tasks I Want To Do](https://github.com/OrigamiMM/PagesProject/blob/add-index/index.md#some-tasks-i-want-to-do)
+
 ![UCSD PICTURE](Resized_Geisel_Library_08.31.jpg)
 > Amanda Rubalcava.2020 https://ucsdnews.ucsd.edu/pressrelease/uc-san-diego-ranked-no-1-public-university-by-washington-monthly. Accessed 3 April 2021
 
-
-I am a current computer science student at UCSD and heres a bit about me. This is part of my Lab 1 project and you can see my first markdown file in [my repository.](README.md) 
+### Intro
+Hey, my name is ***Oscar Acevedo***. I am a current 2nd year computer science student at **UCSD** and heres a bit about me. This is part of my Lab 1 project and you can see my first markdown file in [my repository.](README.md) 
 
 ### Software Side
 I started programming in high school after being introduced to it by a teacher. Was something that eventually flourished. Like many, my first line was 
@@ -26,9 +32,9 @@ Some fun projects I worked on
   - Barcelona in La Liga
 - Best TV show in recent memory was *Halt and Catch Fire*
 - My Top 3 Movies are:
-  1. Inglourious Basterds
-  2. The Shining
-  3. Parasite 
+  1. *Inglourious Basterds*
+  2. *The Shining*
+  3. *Parasite* 
 
 ### Some Tasks I want to do
 - [x] Complete Lab 1, which is to complete this page.
@@ -36,7 +42,7 @@ Some fun projects I worked on
 - [ ] Repeat with other classes 
 - [ ] Repeat for multiple quarters
 - [ ] Graduate
-- [ ] Redo this page to include more impressive things
+- [ ] ~~Redo this page to include more impressive things~~
 
 
 This site was built using [GitHub Pages](https://pages.github.com/). Check it out.
